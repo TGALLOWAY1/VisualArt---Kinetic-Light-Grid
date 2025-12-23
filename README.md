@@ -1,6 +1,4 @@
 # Kinetic Light Grid (Visual Art)
-
-# Kinetic Light Grid - Interactive Visual Art Project
 <img width="701" height="695" alt="image" src="https://github.com/user-attachments/assets/4ffc2953-db37-46ee-89e2-2b455931750a" />
 
 ## Overview
